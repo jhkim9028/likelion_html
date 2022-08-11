@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+*  {
+    font-family:'Montserrat';
+}
+
+body {
+    margin: 0px;
+    padding:0px;
+    margin-top: 30px;
+}
+
+.mainbox  {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid gray;
+    background-color: white;
+    box-shadow: 10px 10px 20px 10px rgba(0, 0, 0, 0.3);
+}
+
+.titlebox  {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.menu1  {
+    overflow: hidden;
+}
+
+.espresso  {
+    font-size: 15px;
+    font-weight: bold;
+    float: left;
+    line-height: 10px;
+    padding-left: 40px
+}
+
+.price1  {
+    float: right;
+    line-height: -20px;
+    padding-right: 30px;
+    font-size: 15px;
+}
+
+h2  {
+    padding-left: 15px
+}
+
+.hotcold  {
+    overflow: hidden;
+}
+
+.mainmenu  {
+    float: left;
+    padding-left: 30px;
+    line-height: 10px;
+}
+
+.tem  {
+    float:right;
+    padding-right: 30px;
+    line-height: -20px;
+    font-size: 15px;
+}
+
+.ade  {
+    float: left;
+    font-size: 10px;
+    padding-top: 3px;
+}
+
+footer  {
+    padding-left: 15px;
+}
+
+.last  {
+    overflow: hidden;
+}
+
+.insta  {
+    width:20px;
+    height: 20px;
+    float: left;
+    margin-top: 10px;
+}
+
+.id  {
+    float:left;
+    margin-left: 10px;
+    font-size: 12px;
+}
